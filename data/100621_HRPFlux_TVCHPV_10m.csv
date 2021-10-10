@@ -1,0 +1,193 @@
+GroupLevel1_Pretreatment,GroupLevel2_Treatment,HRP_ngml
+No Pretreatment,Control pH7.4,8.977272727
+No Pretreatment,Control pH7.4,7.987012987
+No Pretreatment,Control pH7.4,8.493506494
+No Pretreatment,Control pH7.4,8.123376623
+No Pretreatment,Control pH7.4,9.061688312
+No Pretreatment,Control pH7.4,7.561688312
+No Pretreatment,Control pH7.4,8.461038961
+No Pretreatment,Control pH7.4,8.922077922
+No Pretreatment,"1mg/ml pepsin, pH6",10.00974026
+No Pretreatment,"1mg/ml pepsin, pH6",9.717532468
+No Pretreatment,"1mg/ml pepsin, pH6",9.74025974
+No Pretreatment,"1mg/ml pepsin, pH6",10.05519481
+No Pretreatment,"1mg/ml pepsin, pH6",9.769480519
+No Pretreatment,"1mg/ml pepsin, pH6",9.853896104
+No Pretreatment,"1mg/ml pepsin, pH6",9.86038961
+No Pretreatment,"1mg/ml pepsin, pH6",10.52597403
+No Pretreatment,"1mg/ml pepsin, pH5",19.5487013
+No Pretreatment,"1mg/ml pepsin, pH5",22.90584416
+No Pretreatment,"1mg/ml pepsin, pH5",20.71103896
+No Pretreatment,"1mg/ml pepsin, pH5",18.02272727
+No Pretreatment,"1mg/ml pepsin, pH5",22.48376623
+No Pretreatment,"1mg/ml pepsin, pH5",21.14935065
+No Pretreatment,"1mg/ml pepsin, pH5",17.22077922
+No Pretreatment,"1mg/ml pepsin, pH5",20.69805195
+No Pretreatment,"1mg/ml pepsin, pH4",20.40909091
+No Pretreatment,"1mg/ml pepsin, pH4",21.83116883
+No Pretreatment,"1mg/ml pepsin, pH4",22.82792208
+No Pretreatment,"1mg/ml pepsin, pH4",21.44805195
+No Pretreatment,"1mg/ml pepsin, pH4",21.73051948
+No Pretreatment,"1mg/ml pepsin, pH4",21.95454545
+No Pretreatment,"1mg/ml pepsin, pH4",19.03246753
+No Pretreatment,"1mg/ml pepsin, pH4",NA
+No Pretreatment,pH4,6.275974026
+No Pretreatment,pH4,5.301948052
+No Pretreatment,pH4,5.808441558
+No Pretreatment,pH4,6.36038961
+No Pretreatment,pH4,5.535714286
+No Pretreatment,pH4,5.357142857
+No Pretreatment,pH4,4.951298701
+No Pretreatment,pH4,4.99025974
+No Pretreatment,0.1% Tx-100 ,15.16233766
+No Pretreatment,0.1% Tx-100 ,12.46753247
+No Pretreatment,0.1% Tx-100 ,12.69805195
+No Pretreatment,0.1% Tx-100 ,14.58441558
+No Pretreatment,0.1% Tx-100 ,13.6461039
+No Pretreatment,0.1% Tx-100 ,13.96428571
+No Pretreatment,0.1% Tx-100 ,13.76948052
+No Pretreatment,0.1% Tx-100 ,16.13311688
+Placebo,Control pH7.4,9.422077922
+Placebo,Control pH7.4,8.779220779
+Placebo,Control pH7.4,10.08116883
+Placebo,Control pH7.4,12.58766234
+Placebo,Control pH7.4,13.1038961
+Placebo,Control pH7.4,11.0487013
+Placebo,Control pH7.4,12.21428571
+Placebo,Control pH7.4,10.55519481
+Placebo,"1mg/ml pepsin, pH6",14.96103896
+Placebo,"1mg/ml pepsin, pH6",11.60714286
+Placebo,"1mg/ml pepsin, pH6",13.33441558
+Placebo,"1mg/ml pepsin, pH6",12.33441558
+Placebo,"1mg/ml pepsin, pH6",15.31493506
+Placebo,"1mg/ml pepsin, pH6",14.03246753
+Placebo,"1mg/ml pepsin, pH6",14.53571429
+Placebo,"1mg/ml pepsin, pH6",14.3538961
+Placebo,"1mg/ml pepsin, pH5",16.28896104
+Placebo,"1mg/ml pepsin, pH5",15.41233766
+Placebo,"1mg/ml pepsin, pH5",15.68181818
+Placebo,"1mg/ml pepsin, pH5",17.17857143
+Placebo,"1mg/ml pepsin, pH5",17.58441558
+Placebo,"1mg/ml pepsin, pH5",17.3474026
+Placebo,"1mg/ml pepsin, pH5",17.27922078
+Placebo,"1mg/ml pepsin, pH5",16.22402597
+Placebo,"1mg/ml pepsin, pH4",14.71753247
+Placebo,"1mg/ml pepsin, pH4",18.73051948
+Placebo,"1mg/ml pepsin, pH4",18.06818182
+Placebo,"1mg/ml pepsin, pH4",19.81818182
+Placebo,"1mg/ml pepsin, pH4",22.71753247
+Placebo,"1mg/ml pepsin, pH4",23.12662338
+Placebo,"1mg/ml pepsin, pH4",21.32142857
+Placebo,"1mg/ml pepsin, pH4",20.37662338
+Placebo,pH4,7.496753247
+Placebo,pH4,8.905844156
+Placebo,pH4,9.288961039
+Placebo,pH4,8.912337662
+Placebo,pH4,8.912337662
+Placebo,pH4,8.584415584
+Placebo,pH4,7.704545455
+Placebo,pH4,8.409090909
+Placebo,0.1% Tx-100 ,13.13636364
+Placebo,0.1% Tx-100 ,12.04545455
+Placebo,0.1% Tx-100 ,12.3474026
+Placebo,0.1% Tx-100 ,11.02922078
+Placebo,0.1% Tx-100 ,14.21103896
+Placebo,0.1% Tx-100 ,12.21753247
+Placebo,0.1% Tx-100 ,11.50974026
+Placebo,0.1% Tx-100 ,11.97727273
+Gaviscon Advanced,Control pH7.4,NA
+Gaviscon Advanced,Control pH7.4,12.07792208
+Gaviscon Advanced,Control pH7.4,11.36688312
+Gaviscon Advanced,Control pH7.4,13.18506494
+Gaviscon Advanced,Control pH7.4,14.35064935
+Gaviscon Advanced,Control pH7.4,14.76298701
+Gaviscon Advanced,Control pH7.4,12.83766234
+Gaviscon Advanced,Control pH7.4,13.97402597
+Gaviscon Advanced,"1mg/ml pepsin, pH6",11.18831169
+Gaviscon Advanced,"1mg/ml pepsin, pH6",11.43506494
+Gaviscon Advanced,"1mg/ml pepsin, pH6",10.58116883
+Gaviscon Advanced,"1mg/ml pepsin, pH6",13.05519481
+Gaviscon Advanced,"1mg/ml pepsin, pH6",11.16233766
+Gaviscon Advanced,"1mg/ml pepsin, pH6",11.81493506
+Gaviscon Advanced,"1mg/ml pepsin, pH6",12.13961039
+Gaviscon Advanced,"1mg/ml pepsin, pH6",13.38311688
+Gaviscon Advanced,"1mg/ml pepsin, pH5",10.40584416
+Gaviscon Advanced,"1mg/ml pepsin, pH5",10.56168831
+Gaviscon Advanced,"1mg/ml pepsin, pH5",10.90584416
+Gaviscon Advanced,"1mg/ml pepsin, pH5",11.48701299
+Gaviscon Advanced,"1mg/ml pepsin, pH5",10.60064935
+Gaviscon Advanced,"1mg/ml pepsin, pH5",11.85714286
+Gaviscon Advanced,"1mg/ml pepsin, pH5",11.1461039
+Gaviscon Advanced,"1mg/ml pepsin, pH5",12.41233766
+Gaviscon Advanced,"1mg/ml pepsin, pH4",10.97402597
+Gaviscon Advanced,"1mg/ml pepsin, pH4",10.57792208
+Gaviscon Advanced,"1mg/ml pepsin, pH4",10.13961039
+Gaviscon Advanced,"1mg/ml pepsin, pH4",10.74350649
+Gaviscon Advanced,"1mg/ml pepsin, pH4",10.76298701
+Gaviscon Advanced,"1mg/ml pepsin, pH4",13.39285714
+Gaviscon Advanced,"1mg/ml pepsin, pH4",12.62012987
+Gaviscon Advanced,"1mg/ml pepsin, pH4",11.9025974
+Gaviscon Advanced,pH4,8.659090909
+Gaviscon Advanced,pH4,9.237012987
+Gaviscon Advanced,pH4,8.675324675
+Gaviscon Advanced,pH4,9.100649351
+Gaviscon Advanced,pH4,9.194805195
+Gaviscon Advanced,pH4,8.866883117
+Gaviscon Advanced,pH4,9.116883117
+Gaviscon Advanced,pH4,8.418831169
+Gaviscon Advanced,0.1% Tx-100 ,8.600649351
+Gaviscon Advanced,0.1% Tx-100 ,9.301948052
+Gaviscon Advanced,0.1% Tx-100 ,9.444805195
+Gaviscon Advanced,0.1% Tx-100 ,9.993506494
+Gaviscon Advanced,0.1% Tx-100 ,10.60714286
+Gaviscon Advanced,0.1% Tx-100 ,9.977272727
+Gaviscon Advanced,0.1% Tx-100 ,10.6038961
+Gaviscon Advanced,0.1% Tx-100 ,10.41233766
+Gaviscon Dual Action,Control pH7.4,11.42857143
+Gaviscon Dual Action,Control pH7.4,11.2012987
+Gaviscon Dual Action,Control pH7.4,NA
+Gaviscon Dual Action,Control pH7.4,13.18831169
+Gaviscon Dual Action,Control pH7.4,12.24025974
+Gaviscon Dual Action,Control pH7.4,14.08116883
+Gaviscon Dual Action,Control pH7.4,12.70779221
+Gaviscon Dual Action,Control pH7.4,12.42207792
+Gaviscon Dual Action,"1mg/ml pepsin, pH6",10.7987013
+Gaviscon Dual Action,"1mg/ml pepsin, pH6",NA
+Gaviscon Dual Action,"1mg/ml pepsin, pH6",11.88311688
+Gaviscon Dual Action,"1mg/ml pepsin, pH6",11.15909091
+Gaviscon Dual Action,"1mg/ml pepsin, pH6",12.89285714
+Gaviscon Dual Action,"1mg/ml pepsin, pH6",11.48376623
+Gaviscon Dual Action,"1mg/ml pepsin, pH6",11.84415584
+Gaviscon Dual Action,"1mg/ml pepsin, pH6",11.73376623
+Gaviscon Dual Action,"1mg/ml pepsin, pH5",9.574675325
+Gaviscon Dual Action,"1mg/ml pepsin, pH5",10.78246753
+Gaviscon Dual Action,"1mg/ml pepsin, pH5",9.383116883
+Gaviscon Dual Action,"1mg/ml pepsin, pH5",7.74025974
+Gaviscon Dual Action,"1mg/ml pepsin, pH5",7.399350649
+Gaviscon Dual Action,"1mg/ml pepsin, pH5",8.198051948
+Gaviscon Dual Action,"1mg/ml pepsin, pH5",7.993506494
+Gaviscon Dual Action,"1mg/ml pepsin, pH5",8.116883117
+Gaviscon Dual Action,"1mg/ml pepsin, pH4",7.399350649
+Gaviscon Dual Action,"1mg/ml pepsin, pH4",8.886363636
+Gaviscon Dual Action,"1mg/ml pepsin, pH4",9.331168831
+Gaviscon Dual Action,"1mg/ml pepsin, pH4",6.178571429
+Gaviscon Dual Action,"1mg/ml pepsin, pH4",8.704545455
+Gaviscon Dual Action,"1mg/ml pepsin, pH4",7.983766234
+Gaviscon Dual Action,"1mg/ml pepsin, pH4",8.097402597
+Gaviscon Dual Action,"1mg/ml pepsin, pH4",8.555194805
+Gaviscon Dual Action,pH4,7.448051948
+Gaviscon Dual Action,pH4,6.37987013
+Gaviscon Dual Action,pH4,8.094155844
+Gaviscon Dual Action,pH4,5.633116883
+Gaviscon Dual Action,pH4,8.334415584
+Gaviscon Dual Action,pH4,9.483766234
+Gaviscon Dual Action,pH4,9.428571429
+Gaviscon Dual Action,pH4,8.811688312
+Gaviscon Dual Action,0.1% Tx-100 ,10.64285714
+Gaviscon Dual Action,0.1% Tx-100 ,9.188311688
+Gaviscon Dual Action,0.1% Tx-100 ,7.795454545
+Gaviscon Dual Action,0.1% Tx-100 ,10.73701299
+Gaviscon Dual Action,0.1% Tx-100 ,9.704545455
+Gaviscon Dual Action,0.1% Tx-100 ,11.13636364
+Gaviscon Dual Action,0.1% Tx-100 ,11.74350649
+Gaviscon Dual Action,0.1% Tx-100 ,12.00324675
