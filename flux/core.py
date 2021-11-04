@@ -9,6 +9,11 @@ from scipy.stats import norm
 from scipy.stats import ttest_ind
 from matplotlib import pyplot as plt
 
+def datafiles():
+    from os import listdir
+    from os.path import isfile, join
+    return [f for f in listdir("data") if isfile(join("data", f))]
+
 def end(msg):
     import sys
     print(msg)
@@ -106,6 +111,12 @@ class IntraGroup:
         table.align["Pretreatment"] = "l"
         table.align["Treatment"] = "l"
         return table
+
+    def get_dataframe(self):
+        igds = tuple(self.get_intra_group_data())
+        df = pd.DataFrame(igds)
+        return df
+
 
 @dataclass
 class InterGroupData:
@@ -228,6 +239,11 @@ class InterGroup:
         table.align["Pretreatment"] = "l"
         table.align["Treatment"] = "l"
         return table
+
+    def get_dataframe(self):
+        igds = tuple(self.get_inter_group_data())
+        df = pd.DataFrame(igds)
+        return df
 
 
 def intragroup_vs_control_table(filename):

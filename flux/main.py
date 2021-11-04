@@ -1,4 +1,7 @@
 from flux.core import intragroup_vs_control_table, intergroup_vs_control_table
+from flux.core import intragroup_vs_control_table, intergroup_vs_control_table, datafiles
+for file in datafiles():
+    print(file)
 
 if __name__ == "__main__":
     filename = "data/092121_HRPFlux_BART_read at 20m.csv"

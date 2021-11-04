@@ -4,3 +4,4 @@ prettytable==2.2.1
 scipy==1.7.1
 statsmodels==0.13.0
 jupyterlab==3.1.13
+openpyxl
